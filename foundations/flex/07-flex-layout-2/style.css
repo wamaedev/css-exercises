@@ -82,3 +82,9 @@ a {
   padding: 30px;
 }
 
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+

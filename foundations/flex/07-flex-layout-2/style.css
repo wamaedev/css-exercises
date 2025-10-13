@@ -72,3 +72,8 @@ a {
   gap: 20px;
 }
 
+.card {
+  width: 300px;
+  padding: 30px;
+}
+
